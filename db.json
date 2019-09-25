@@ -1,62 +1,12 @@
 [
   {
-    position: 1,
-    dish: {
-      id: 1,
-      name: 'Салат из капусты',
-      type: 'meat-free'
+    'position': 1,
+    'dish': {
+      'id': 1,
+      'name': 'Салат из капусты',
+      'type': 'meat-free'
     },
-    weight: 100,
-    cost: 5
-  },
-  {
-    position: 2,
-    dish: {
-      id: 2,
-      name: 'Борщ зеленый',
-      type: 'meat-free'
-    },
-    weight: 250,
-    cost: 5
-  },
-  {
-    position: 3,
-    dish: {
-      id: 3,
-      name: 'Каша пшеничная',
-      type: 'meat-free'
-    },
-    weight: 150,
-    cost: 5
-  },
-  {
-    position: 4,
-    dish: {
-      id: 4,
-      name: 'Бефстроганов из курицы',
-      type: 'meat'
-    },
-    weight: 100,
-    cost: 10
-  },
-  {
-    position: 5,
-    dish: {
-      id: 5,
-      name: 'Бокс пластиковый для второго',
-      type: 'auxiliary'
-    },
-    weight: 0,
-    cost: 3
-  },
-  {
-    position: 6,
-    dish: {
-      id: 6,
-      name: 'Бокс пластиковый для салата',
-      type: 'auxiliary'
-    },
-    weight: 0,
-    cost: 2
+    'weight': 100,
+    'cost': 5
   }
 ]
