@@ -1,12 +1,12 @@
 [
   {
-    'position': 1,
-    'dish': {
-      'id': 1,
-      'name': 'Салат из капусты',
-      'type': 'meat-free'
+    "position": 1,
+    "dish": {
+      "id": 1,
+      "name": "Салат из капусты",
+      "type": "meat-free"
     },
-    'weight': 100,
-    'cost': 5
+    "weight": 100,
+    "cost": 5
   }
 ]
